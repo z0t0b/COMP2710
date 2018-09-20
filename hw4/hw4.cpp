@@ -1,5 +1,3 @@
-// name: Zachary Bedsole, zeb0007
-// partner: Jacob Rozell, jcr0058
 // filename: hw04.cpp
 // due date: 09/21/18
 // collaboration: I did not use any external sources for this assignment.
